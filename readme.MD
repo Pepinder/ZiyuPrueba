@@ -25,7 +25,7 @@ Este repositorio contiene una API RESTful robusta para una empresa de jardinerí
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone <URL_DE_TU_REPOSITORIO>
+    git clone https://github.com/Pepinder/ZiyuPrueba
     cd ziyuPrueba
     ```
 
